@@ -148,6 +148,7 @@ sorting (Apr, Aug, Dec...) will misrepresent any time-based trend.
 The fix: create a numeric column (1-12) in Power Query using a 
 Conditional Column, then use "Sort by Column" in Data view to force 
 MonthName to sort by that number instead.
+
 ---
 
 ## About
