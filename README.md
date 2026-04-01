@@ -78,7 +78,7 @@ Regency Cakestand 3 Tier leads at €344K, followed by White Hanging Heart T-Lig
 The UK generates 85.7% (€17.26M). Ireland, Netherlands and Germany show consistent purchasing and may benefit from targeted marketing and optimised logistics to support growth in those regions.
 
 **Q4. When do customers shop?**  
-Weekdays between 9am and 5pm. Wednesday at noon is the single busiest hour. Saturday is nearly empty. This shows its not a consumer business — it is wholesale.
+Weekdays between 9am and 5pm. Wednesday at noon is the single busiest hour. Saturday is nearly empty. This confirms it is not a consumer business — it is wholesale.
 
 **Q5. Who are the top customers?**  
 The top two customers by revenue placed the same number of orders but had completely different buying profiles. Revenue alone is not enough to understand your customers.
