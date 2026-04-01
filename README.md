@@ -107,23 +107,13 @@ Top 10 customers by revenue. Average order value. Guest transactions. Orders by 
 ```
 ecommerce-sales-analysis/
 │
-├── data/
-│   ├── online_retail_II.csv          ← Raw dataset
-│   └── online_retail_clean.csv       ← Cleaned dataset
-│
-├── notebooks/
-│   └── analysis.ipynb                ← Python analysis
-│
-├── visuals/
-│   ├── q1_monthly_revenue.png
-│   ├── q2_top_products.png
-│   ├── q3_country_revenue.png
-│   ├── q4_shopping_heatmap.png
-│   └── q5_top_customers.png
-│
-├── dashboard/
-│   └── ecommerce_dashboard.pdf       ← Power BI export
-│
+├── analysis.ipynb
+├── ecommerceoverview.pdf
+├── q1_monthly_revenue.png
+├── q2_top_products.png
+├── q3_country_revenue.png
+├── q4_shopping_heatmap.png
+├── q5_top_customers.png
 └── README.md
 ```
 
